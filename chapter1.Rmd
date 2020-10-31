@@ -9,9 +9,12 @@ I love my cat.
 https://github.com/cfwu1231/IODS-project.git
 
 ```{r}
-# This is a so-called "R chunk" where you can write R code.
+# I expect to learn open source coding and tools for the research for the future.
+# My cat keeps meowing now.
+# I love my cat.
+# https://github.com/cfwu1231/IODS-project.git.
 
-date()
+date(31.10)
 
 ```
 The text continues here.
