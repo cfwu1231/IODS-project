@@ -3,20 +3,15 @@
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
 
-I expect to learn open source coding and tools for the research for the future.
-My cat keeps meowing now.
-I love my cat.
-https://github.com/cfwu1231/IODS-project.git
-Testing where to insert text 1.
+"I expect to learn open source coding and tools for the research for the future.
+My cat keeps meowing now."
+"I love my cat."
+"https://github.com/cfwu1231/IODS-project.git"
+"Testing where to insert text 1."
 
 ```{r}
-# I expect to learn open source coding and tools for the research for the future.
-# My cat keeps meowing now.
-# I love my cat.
-# https://github.com/cfwu1231/IODS-project.git.
-# Testing where to insert text 2.
 
-date(31.10)
+date()
 
 ```
 The text continues here.
