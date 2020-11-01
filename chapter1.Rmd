@@ -11,7 +11,7 @@ My cat keeps meowing now."
 
 ```{r}
 
-date()
+date(1.11)
 
 ```
 The text continues here.
