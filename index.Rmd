@@ -1,6 +1,6 @@
 ---
 title: "IODS course project"
-author: "Chia-Fang Wu"
+author: "Chia-Fang Wu cfwu1231"
 output:
   html_document:
     theme: cosmo
